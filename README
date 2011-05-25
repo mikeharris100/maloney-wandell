@@ -1,12 +1,1 @@
-This is a Matlab implementation of Maloney & Wandell's colour constancy algorithm, as detailed in:
-
-@article{maloney1986color,
-	Author = {Maloney, L.T. and Wandell, B.A.},
-	Journal = {JOSA A},
-	Number = {1},
-	Pages = {29--33},
-	Publisher = {Optical Society of America},
-	Title = {Color constancy: a method for recovering surface spectral reflectance},
-	Volume = {3},
-	Year = {1986},
-}
+This is a Matlab implementation of Maloney & Wandell's colour constancy algorithm, as detailed in: L.T. Maloney and B.A. Wandell, "Color Constancy: A Method for Recovering Surface Spectral Reflectance", J. Optical Soc. Am., A, vol. 3, no. 1, pp. 29-33, 1986. 
